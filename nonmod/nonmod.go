@@ -3,7 +3,7 @@ package nonmod
 import (
 	"fmt"
 
-	"github.com/gofrs/uuid"
+	"github.com/gofrs/uuid/v3"
 )
 
 func PrintUUID() {
