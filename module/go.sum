@@ -1,6 +1,6 @@
-github.com/bcmills/uuid61 v0.0.0-20181120210011-b6a6dcd78810 h1:bXXh8H0alKqI4qlkzas+SLpF43rNpmkANd8ywfA2HHk=
-github.com/bcmills/uuid61 v0.0.0-20181120210011-b6a6dcd78810/go.mod h1:6jJQCyoD9/4tw4Au4wq8WKfK026IbrzYhDnlLZZxlWE=
-github.com/bcmills/uuid61 v2.0.0+incompatible h1:1J+4Vqa9H75i+sflJIaKAO5wytPnO70970LKY880J4E=
-github.com/bcmills/uuid61 v2.0.0+incompatible/go.mod h1:6jJQCyoD9/4tw4Au4wq8WKfK026IbrzYhDnlLZZxlWE=
-github.com/gofrs/uuid v3.1.0+incompatible h1:q2rtkjaKT4YEr6E1kamy0Ha4RtepWlQBedyHx0uzKwA=
-github.com/gofrs/uuid v3.1.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
+github.com/bcmills/uuid61 v3.0.1+incompatible h1:W6tBbKXsaSDWtRIK+rbTKEnhmbc1A/GLZYsMmDBmK0E=
+github.com/bcmills/uuid61 v3.0.1+incompatible/go.mod h1:6jJQCyoD9/4tw4Au4wq8WKfK026IbrzYhDnlLZZxlWE=
+github.com/bcmills/uuid61/v4 v4.0.0 h1:YYZUTnO6xp6m5bGJNtevZcXCa6QQdGtKsh/3h+5/kbo=
+github.com/bcmills/uuid61/v4 v4.0.0/go.mod h1:SiYKxDbdem4A3qi8pCjeWhLvfjbLIHb4eNZdrDzt/AQ=
+github.com/gofrs/uuid/v3 v3.1.2 h1:V3IBv1oU82x6YIr5txe3azVHgmOKYdyKQTowm9moBlY=
+github.com/gofrs/uuid/v3 v3.1.2/go.mod h1:xPwMqoocQ1L5G6pXX5BcE7N5jlzn2o19oqAKxwZW/kI=
